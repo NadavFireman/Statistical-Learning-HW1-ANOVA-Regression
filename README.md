@@ -24,5 +24,5 @@ The assignment works through the general linear model on real datasets — cloth
 - `Statistical_Learning_HW1.ipynb`: Full solution notebook — all five problems, with derivations, code and analysis.
 - `Statistical_Learning_HW1.pdf`: PDF export of the executed notebook.
 - `class.exe.01.xlsx`: Clothing-price and investment-strategy datasets (Questions 1 and 3).
-- - `rats.csv`: Toxicology experiment dataset — poison × treatment response times (Question 4).
+- `rats.csv`: Toxicology experiment dataset — poison × treatment response times (Question 4).
 - `Assignment_Instructions_1.pdf`: Original course assignment.
