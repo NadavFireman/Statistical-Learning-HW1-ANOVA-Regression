@@ -17,6 +17,3 @@ The general linear model, worked by hand on real datasets — clothing prices, i
 - `Statistical_Learning_HW1.pdf`: PDF export of the executed notebook.
 - `class.exe.01.xlsx` / `rats.csv`: Datasets (Q1, Q3, Q4).
 - `Assignment_Instructions_1.pdf`: Original course assignment.
-
----
-*Course: Statistical Learning, M.Sc. Data Science, HIT · Python, Pandas, NumPy, statsmodels, SciPy, Matplotlib, Seaborn*
